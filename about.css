@@ -33,3 +33,14 @@ body{
   font-size:3.8vw;
   color:blueviolet;
 }
+#main_container{
+  display:flex;
+  width:90%;
+  flex-direction:column;
+}
+#main_wrapper{
+  display:flex;
+  width:100%;
+  flex-direction:column;
+  gap:25px;
+}
