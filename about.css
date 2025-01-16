@@ -22,6 +22,23 @@ body{
   flex-direction:column;
   justify-content:center;
 }
+#top_item1{
+  color:whitesmoke;
+  font-size:4vw;
+  padding:2%;
+}
+#top_item1::before{
+  content:"";
+  content:"❝";
+  color:whitesmoke;
+  font-size:3.8vw;
+}
+#top_item1::after{
+  content:"";
+  content:"❞";
+  color:whitesmoke;
+  font-size:3.8vw;
+}
 
 #main_container{
   display:flex;
