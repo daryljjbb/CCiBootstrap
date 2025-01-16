@@ -16,23 +16,13 @@ body{
   padding:2% 1% 2% 1%;
 }
   
-#top_section h1{
-  color:whitesmoke;
-  font-size:4vw;
-  text-align:center;
+#top_wrapper{
+  display:flex;
+  width:95%;
+  flex-direction:column;
+  justify-content:center;
 }
-#top_section h1::before{
-  content:"";
-  content:"❝"
-  font-size:3.8vw;
-  color:whitesmoke;
-}
-#top_section h1::after{
-  content:"";
-  content:"❞"
-  font-size:3.8vw;
-  color:whitesmoke;
-}
+
 #main_container{
   display:flex;
   width:90%;
