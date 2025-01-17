@@ -14,10 +14,41 @@ body{
   display:flex;
   flex-direction:column;
   padding:2% 1% 2% 1%;
+  width:100%;
 }
   
-#top_section h1{
+#top_wrapper{
+  display:flex;
+  flex-direction:column;
+  width:100%;
+}
+#top_left_section{
+  display:flex;
+  flex-direction:column;
+  width:65%;
+}
+#top_left_item1{
+  text-align:center;
   color:whitesmoke;
   font-size:4vw;
-  text-align:center;
 }
+#top_left_item2{
+  text-align:center;
+  color:whitesmoke;
+  font-size:4vw;
+}
+#top_left_item3 ul{
+  display:block;
+}
+#top_left_item3 ul li{
+  list-style:none;
+  color:whitesmoke;
+  font-size:3.6vw;
+}
+#top_left_item3 ul li::before{
+  content:"";
+  content:"✵ ";
+  color:blueviolet;
+  font-size:3.4vw;
+}
+  
