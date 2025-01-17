@@ -10,6 +10,9 @@ body{
   flex-direction:column;
   width:90%;
 }
+.navbar-brand{
+  color:rgb(221, 51, 51);
+}
 #top_section{
   display:flex;
   flex-direction:column;
@@ -24,14 +27,14 @@ body{
 }
 #top_item1{
   color:whitesmoke;
-  font-size:4vw;
+  font-size:3.8vw;
   padding:2%;
 }
 #top_item1::before{
   content:"";
   content:"❝";
   color:whitesmoke;
-  font-size:3.8vw;
+  font-size:3.5vw;
 }
 #top_item1::after{
   content:"";
