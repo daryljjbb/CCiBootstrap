@@ -15,14 +15,12 @@ body{
 }
 #top_section{
   display:flex;
-  flex-direction:column;
   padding:2% 1% 2% 1%;
   width:100%;
 }
   
 #top_wrapper{
   display:flex;
-  flex-direction:row;
   width:100%;
 }
 #top_left_section{
