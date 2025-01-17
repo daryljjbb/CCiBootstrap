@@ -54,6 +54,16 @@ body{
   color:blueviolet;
   font-size:3.4vw;
 }
+#top_right_section{
+  width:35%;
+  display:flex;
+  flex-direction:column;
+}
+#top_right_wrapper{
+  width:35%;
+  display:flex;
+  flex-direction:column;
+}
 #mid_section{
   width:100%;
   display:flex;
@@ -70,5 +80,9 @@ body{
   background-color:black;
   border: 2px solid lightslategray;
   border-radius:5px;
+}
+#mid_item1_sub3 button a{
+  color:rgb(221, 51, 51);
+}
   
   
