@@ -76,6 +76,15 @@ body{
   padding: 1.5%;
   margin: 2% 0 0 1.5%;
 }
+#mid_item1_sub1{
+  color:whitesmoke;
+  font-size:3.4vw;
+}
+#mid_item1_sub2{
+  color:whitesmoke;
+  font-size:3vw;
+  font-style:italic;
+}
 #mid_item1_sub3 button{
   background-color:black;
   border: 2px solid lightslategray;
