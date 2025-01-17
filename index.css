@@ -19,7 +19,7 @@ body{
   
 #top_wrapper{
   display:flex;
-  flex-direction:column;
+  flex-direction:row;
   width:100%;
 }
 #top_left_section{
@@ -51,4 +51,21 @@ body{
   color:blueviolet;
   font-size:3.4vw;
 }
+#mid_section{
+  width:100%;
+  display:flex;
+  flex-direction:column;
+}
+#mid_item1_wrapper{
+  border: 1px solid lightslategray;
+  border-radius: 10px;
+  width:70%;
+  padding: 1.5%;
+  margin: 2% 0 0 1.5%;
+}
+#mid_item1_sub3 button{
+  background-color:black;
+  border: 2px solid lightslategray;
+  border-radius:5px;
+  
   
