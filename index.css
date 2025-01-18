@@ -29,9 +29,19 @@ body {
     margin:4% 0 0 0;
 
 }
+#middle_item2 p{
+    font-style:italic;
+
 #middle_item3{
     margin:5% 0 0 0;
 }
 #middle_item3 .card-title{
     color:rgb(207, 21, 43);
+}
+#middle_item4{
+    margin:5% 0 0 0;
+
+}
+#middle_item4 h4{
+    font-style:italic;
 }
