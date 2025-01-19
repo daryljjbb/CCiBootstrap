@@ -49,20 +49,19 @@ body {
 #middle_item5 {
     margin: 5% 0 0 0;
 }
-#mid_item5_container{
-    padding:2% 8% 2% 8%;
-    border:2px solid lightslategray;
-    border-radius:10px;
-    width:50%;
+#mid_item5_container {
+    padding: 2% 8%;
+    border: 2px solid lightslategray;
+    border-radius: 10px;
+    width: 50%;
 }
-#middle_item5 ul{
-    margin:2% 0 0 0;
+#middle_item5 ul {
+    margin: 2% 0 0 0;
 }
-#middle_item5 ul li{
-    line-height:45px;
+#middle_item5 ul li {
+    line-height: 45px;
 }
 #middle_item5 ul li::before {
-    content: "";
-    content: "> ";
+    content: "✸ ";
     color: blueviolet;
 }
