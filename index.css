@@ -53,7 +53,12 @@ body {
     border-radius: 10px;
     width: 50%;
 }
-#mid_item5_container {
-    
+#mid_item6{
+    margin:5% 0 0 0;
+    padding:2%;
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 70%;
+    text-align: center;
 }
 
