@@ -55,13 +55,4 @@ body {
     border-radius: 10px;
     width: 50%;
 }
-#middle_item5 ul {
-    margin: 2% 0 0 0;
-}
-#middle_item5 ul li {
-    line-height: 45px;
-}
-#middle_item5 ul li::before {
-    content: "✸ ";
-    color: blueviolet;
-}
+
