@@ -63,6 +63,6 @@ body {
 }
 #middle_item5 ul li::before {
     content: "";
-    content: "✸ ";
+    content: "> ";
     color: blueviolet;
 }
