@@ -63,3 +63,10 @@ body {
     text-align: center;
 }
 
+    #bottom_container{
+        margin:5% 0 0 0;
+        padding:2%;
+        border: 2px solid red;
+        border-radius:10px;
+    }
+
